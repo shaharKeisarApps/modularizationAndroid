@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shaharkeisarapps.modularizationandroid.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shaharkeisarapps.modularizationandroid.MyBundle
 
 class MyApplicationService {
 
